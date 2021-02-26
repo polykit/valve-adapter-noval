@@ -19,7 +19,7 @@ U 1 1 5FEE117C
 P 6850 4300
 F 0 "U1" H 7078 4346 50  0000 L CNN
 F 1 "ECC83" H 7078 4255 50  0000 L CNN
-F 2 "Valve:Valve_Noval_P" H 7120 3900 50  0001 C CNN
+F 2 "Valve:Valve_ECC-83-2" H 7120 3900 50  0001 C CNN
 F 3 "http://www.r-type.org/pdfs/ecc83.pdf" H 6850 4300 50  0001 C CNN
 	1    6850 4300
 	1    0    0    -1  
@@ -30,7 +30,7 @@ U 2 1 5FEE4931
 P 4850 4300
 F 0 "U1" H 5078 4346 50  0000 L CNN
 F 1 "ECC83" H 5078 4255 50  0000 L CNN
-F 2 "Valve:Valve_Noval_P" H 5120 3900 50  0001 C CNN
+F 2 "Valve:Valve_ECC-83-2" H 5120 3900 50  0001 C CNN
 F 3 "http://www.r-type.org/pdfs/ecc83.pdf" H 4850 4300 50  0001 C CNN
 	2    4850 4300
 	1    0    0    -1  
@@ -82,7 +82,7 @@ U 3 1 5FEE66E6
 P 5850 4250
 F 0 "U1" H 6078 4213 50  0000 L CNN
 F 1 "ECC83" H 6078 4122 50  0000 L CNN
-F 2 "Valve:Valve_Noval_P" H 6120 3850 50  0001 C CNN
+F 2 "Valve:Valve_ECC-83-2" H 6120 3850 50  0001 C CNN
 F 3 "http://www.r-type.org/pdfs/ecc83.pdf" H 5850 4250 50  0001 C CNN
 	3    5850 4250
 	1    0    0    -1  
